@@ -2,7 +2,7 @@
 
 ### Introduction
 
-One of the aspects that confuses people when first learning arrays is that they are mutable. Not only can you say:
+One of the aspects that confuses people when first learning arrays is that they are mutable (can be mutated). Not only can you say:
 
 `array.push(5)`
 
@@ -24,13 +24,12 @@ This is a typical test-based assignment, so:
 
 1. Fork and `clone`.
 2. `cd` into the local repository.
-3. Run `npm install` and `npm test`.
+3. Run `jest`
 4. Make some functions!
-
 
 ### Challenges
 
-1. `addMeToEnd - adds the string 'Colin' to the end of the given array.
+1. `addMeToEnd` - adds the string 'Colin' to the end of the given array.
 2. `addMeToStart` - adds the string 'Colin' to the start of the given array.
 3. `changeLast` - _changes_ (not adds!) the last value in the given array to the value given.
 4. `changeAllValuesTo` - changes _every_ value in the given array to the given value.
