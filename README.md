@@ -22,10 +22,9 @@ Remember that you won't be `return`-ing in this set of functions, just mutating 
 
 This is a typical test-based assignment, so:
 
-1. Fork and `clone`.
-2. `cd` into the local repository.
-3. Run `jest`
-4. Make some functions!
+1. Fork and clone
+2. `npm install`
+3. `npm run test
 
 ### Challenges
 
