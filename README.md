@@ -24,7 +24,7 @@ This is a typical test-based assignment, so:
 
 1. Fork and clone
 2. `npm install`
-3. `npm run test
+3. `npm run test`
 
 ### Challenges
 
