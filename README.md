@@ -14,8 +14,8 @@ This is a typical test-based assignment, so:
 
 ### Challenges
 
-1. `addMeToEnd` - adds the string 'Colin' to the end of the given array.
-2. `addMeToStart` - adds the string 'Colin' to the start of the given array.
+1. `addMeToEnd` - adds the string 'Anthony' to the end of the given array.
+2. `addMeToStart` - adds the string 'Anthony' to the start of the given array.
 3. `changeLast` - _changes_ (not adds!) the last value in the given array to the value given.
 4. `changeAllValuesTo` - changes _every_ value in the given array to the given value.
 5. `oddOrEven` - changes every numerical value in the given array (you can assume they'll all be numbers) to the string 'odd' if the number is odd and 'even' if it's even.
